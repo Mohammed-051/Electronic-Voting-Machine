@@ -20,7 +20,7 @@ This project simulates a secure and user-friendly electronic voting system. Deve
 3. Ensure all buttons and LEDs are functioning before running tests.
 
 ## Hardware Setup
-![Hardware Setup](assets/EVM.png)
+![Hardware Setup](assets/HSet.png)
 ---
 ## Working Process Flow Chart 
 ![Flow Chart](assets/FlowChart.png)
