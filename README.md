@@ -22,15 +22,14 @@ This project simulates a secure and user-friendly electronic voting system. Deve
 ## Hardware Setup
 ![Hardware Setup](assets/EVM.png)
 ---
+## Working Process Flow Chart 
+![Flow Chart](assets/FlowChart.png)
+---
 
 ## Future Work:
 - Integration of biometric authentication.
 - Blockchain-based vote storage for scalability.
 
-## Working Process Flow Chart 
-![Flow Chart](assets/FlowChart.png)
-
----
 ## Workflow
 
 ### 1. Problem Identification
@@ -86,6 +85,7 @@ This project simulates a secure and user-friendly electronic voting system. Deve
 
 ## Work FLow Diagram:
 ![Work_Flow](assets/WorkFlow.png)
+---
 
 ## Licenses
 - [MIT License](LICENSE-MIT)
