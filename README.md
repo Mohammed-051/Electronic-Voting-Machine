@@ -91,4 +91,5 @@ This project simulates a secure and user-friendly electronic voting system. Deve
 - [MIT License](LICENSE-MIT)
 - [GPL v3 License](LICENSE-GPL)
 
-
+# Note
+## This is a Group Project.   
