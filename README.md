@@ -23,5 +23,14 @@ This project simulates a secure and user-friendly electronic voting system. Deve
 - Integration of biometric authentication.
 - Blockchain-based vote storage for scalability.
 
+## Work Flow 
+![Work_Flow](assets/WorkFlow.png)
+
 ## Hardware Setup
 ![Hardware Setup](assets/EVM.png)
+
+## Licenses
+- [MIT License](LICENSE-MIT)
+- [GPL v3 License](LICENSE-GPL)
+
+
